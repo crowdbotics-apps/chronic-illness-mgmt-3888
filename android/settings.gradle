@@ -1,0 +1,3 @@
+rootProject.name = 'chronic_illness_mgmt_3888'
+
+include ':app'
