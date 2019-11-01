@@ -10,7 +10,7 @@ name = "pypi"
 python_version = "3.7"
 
 [packages]
-django = "==1.11.20"
+django = "==1.11.23"
 django-environ = "==0.4.4"
 psycopg2 = "==2.7.3.1"
 waitress = "==1.0.2"
